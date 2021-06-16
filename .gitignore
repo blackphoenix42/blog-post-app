@@ -13,3 +13,7 @@ web-build/
 .DS_Store
 
 .vscode/
+
+*.code-workspace
+
+screens.png
