@@ -1,0 +1,14 @@
+{
+  "blogPosts": [
+    {
+      "title": "Hello",
+      "content": "There",
+      "id": 1
+    },
+    {
+      "title": "Third Post",
+      "content": "jbn kml,",
+      "id": 2
+    }
+  ]
+}
